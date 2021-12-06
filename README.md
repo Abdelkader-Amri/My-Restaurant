@@ -1,2 +1,2 @@
 # My-Restaurant
-a restaurant menue card.
+a restaurant menu card.
