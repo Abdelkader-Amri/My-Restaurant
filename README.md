@@ -1,2 +1,2 @@
-# Hang-Man
-Hang man it's a guessing game.
+# My-Restaurant
+a restaurant menue card.
